@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rakesh Dhariwal</h1>
-<h3 align="center">A passionate MERN developer from India, also good in problem solving</h3>
+<h3 align="center">A passionate MERN developer from India, 3⭐Leetcode 530+ Problem 1499 maxrating, 5⭐ Hackerrank</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masterghost2002&label=Profile%20views&color=0e75b6&style=flat" alt="masterghost2002" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rakeshdhariwal61@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Yybef8qNHN-6PmbGopaB6L3hTzA47v05/view?usp=share_link](https://drive.google.com/file/d/1Yybef8qNHN-6PmbGopaB6L3hTzA47v05/view?usp=share_link)
+- 📄 Know about my experiences [Rakesh Resume](https://drive.google.com/file/d/1Yybef8qNHN-6PmbGopaB6L3hTzA47v05/view?usp=share_link)
 
 - ⚡ Fun fact **I am good learner**
 
