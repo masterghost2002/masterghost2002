@@ -35,6 +35,6 @@ Self-proclaimed "dumb coder" here – because humility is the secret sauce of gr
 
 ### 📊 GitHub Stats
 
-![Rakesh GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true&hide=prs,issues&theme=radical)
+![Rakesh GitHub Stats](https://github-readme-stats.vercel.app/api?username=masterghost2002&show_icons=true&count_private=true&hide=prs,issues&theme=radical)
 
 Feel free to explore my repositories, and don't hesitate to reach out for collaboration or just a friendly coding chat! 🚀✨
