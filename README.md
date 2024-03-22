@@ -1,40 +1,49 @@
-# 👋 Hello World! I'm Rakesh Dhariwal.
+# Hi there! 👋
 
-## 👨‍💻 Full Stack Developer | DevOps Enthusiast | System Design Dreamer
+## About Me
 
-Welcome to my coding corner! I'm passionate about crafting elegant solutions and exploring the endless possibilities of the tech universe.
+I'm Rakesh Dhariwal, a dedicated Computer Science undergraduate with a passion for full-stack development and solving real-world problems. I thrive on challenging myself and continuously expanding my knowledge and skills in the ever-evolving field of software engineering.
 
-### 💡 Technologies & Tools
+## Skills and Expertise
 
-- **Languages:** JavaScript, TypeScript
-- **Web Technologies:** React, Node.js, Express, Next.js
-- **DevOps & Automation:** Docker, Jenkins, Ansible, Vagrant (little bit of devops)
-- **Operating System:** Linux , Windows
+**Languages:** JavaScript, TypeScript, C/C++, HTML, CSS, SQL
 
-### 🚀 What I Do
+**Frameworks and Libraries:** NextJS, ReactJS, ExpressJS, Node.js, TailwindCSS, ChakraUI, Socket.io, Prisma ORM, Mongoose
 
-- Transforming chai ☕ into code and dreams into systems.
-- Building seamless and responsive web applications with React and Next.js.
-- Containerizing the chaos with Docker and orchestrating it with Kubernetes.
-- Crafting pipelines with Jenkins, because automation is the real superhero.
-- Configuring servers and infrastructure with Ansible.
-- Embracing the command line on my trusty Linux machine.
+**DevOps and API Tools:** Git, Docker, Jenkins, Kubernetes, Swagger, Postman, Vagrant, Ansible
 
-### 🌱 Always Learning
+**Other Tools and Concepts:** Data Structures, Algorithms, Design Patterns, Debugging, AWS, Firebase
 
-I'm a perpetual student of data structures and algorithms, constantly leveling up my coding game. Learning is a journey, and I proudly wear the badge of a perpetual learner.
+## Featured Projects
 
-### 🤓 Dumb Coder Chronicles
+### AI Proposal WebApp
 
-Self-proclaimed "dumb coder" here – because humility is the secret sauce of growth. Join me on my coding misadventures, where every bug is a lesson and every error is a stepping stone.
+- Developed a cutting-edge NextJS web application that leverages generative AI to streamline the proposal writing process for home improvements and software projects.
+- Implemented AI-powered proposal generation capabilities, reducing turnaround times by 90% and enhancing client satisfaction.
+- Integrated Amplitude analytics and Stripe payment gateway with webhook support for comprehensive user behavior tracking and seamless subscription management.
+- Implemented a microservice architecture, resulting in a 60% reduction in production costs while improving scalability, maintainability, and fault isolation.
 
-### 📫 Let's Connect
+### Voucher Expense Management
 
-- **LinkedIn:** [[Connect with me on LinkedIn](https://www.linkedin.com/in/rakeshdhariwal61/)](#)
-- **Twitter:** [[@YourTwitterHandle](https://twitter.com/rakesh_d61)](#)
+- Engineered a secure, scalable, and user-friendly Progressive Web App (PWA) for expense management with a four-tier architecture and role-based access control.
+- Implemented robust expense tracking functionality, including expense assignment, approval/rejection based on receipts, and secure user authentication.
+- Leveraged data visualization techniques for insightful expense reports and enabled export to Excel for further analysis.
+- Utilized file compression algorithms, reducing storage costs by 45%.
 
-### 📊 GitHub Stats
+### Discord Clone
 
-![Rakesh GitHub Stats](https://github-readme-stats.vercel.app/api?username=masterghost2002&show_icons=true&count_private=true&hide=prs,issues&theme=radical)
+- Developed a high-performance, real-time communication web application using NextJS, reducing response times by 70% and server costs by 30%.
+- Implemented robust video chat functionality using LiveKit, ensuring scalability and reliability through a NoSQL database and efficient system architecture.
+- Facilitated real-time messaging and notifications using Socket.IO, providing a seamless user experience.
 
-Feel free to explore my repositories, and don't hesitate to reach out for collaboration or just a friendly coding chat! 🚀✨
+## Let's Connect!
+
+I'm always excited to collaborate on interesting projects, share knowledge, and learn from others. Feel free to reach out to me through the following channels:
+
+- Email: [rakeshdhariwal61@gmail.com]
+- LinkedIn: [https://linkedin.com/in/rakeshdhariwal61]
+- Twitter: [https://twitter.com/rakesh_d61]
+
+You can find more details about my experience, projects, and achievements in my [resume](https://drive.google.com/file/d/1Yybef8qNHN-6PmbGopaB6L3hTzA47v05/view).
+
+Thank you for visiting my GitHub profile!
